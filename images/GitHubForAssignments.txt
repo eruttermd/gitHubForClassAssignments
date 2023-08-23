@@ -1,0 +1,1 @@
+I don't know exactly which method I will use for assignments as I believe some modes of linking our assignments to Canvas may be better dependent on the task at hand. For this assignment I have cloned a repository and edited in VS. I will save/commit changes and then sync back to GitHub and provide copied link on canvas.
